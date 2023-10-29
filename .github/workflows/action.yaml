@@ -3,7 +3,7 @@
 # lint code
 # test code
 
-name: Must run on custom runner
+name: Build application code
 
 on:
   pull_request:
