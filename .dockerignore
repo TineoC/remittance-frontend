@@ -1,0 +1,21 @@
+# Ignore development and source control files
+node_modules
+.git
+.gitignore
+
+# Ignore build artifacts
+/build
+/dist
+
+# Ignore environment-specific files
+.env
+.env.*
+
+# Ignore editor-specific files
+.vscode
+*.swp
+*.swo
+
+# Ignore Docker-specific files
+.dockerignore
+.dockerfile

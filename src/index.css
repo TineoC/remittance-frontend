@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "Freight Sans";
+  src: url("../public/fonts/freightsans-book.woff") format("woff"),
+    url("../public/fonts/freightsans-book.woff2") format("woff2"),
+    url("../public/fonts/freightsans-bold.woff") format("woff"),
+    url("../public/fonts/freightsans-bold.woff2") format("woff2");
+}
+
+body {
+  margin: 0;
+  font-family: "Freight Sans", "Helvetica", sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}

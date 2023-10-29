@@ -1,0 +1,27 @@
+.container {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.title {
+  margin-bottom: 20px;
+  color: #264E72;
+}
+
+.searchContainer {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+
+.searchInput {
+  margin-right: 10px;
+  width: 300px;
+}
+
+.searchButton {
+  background-color: #00AEF0; 
+  border-color: #00AEF0; 
+  color: #fff;
+}

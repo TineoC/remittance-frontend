@@ -1,0 +1,21 @@
+.lbl-file-upload {
+  background-color: white;
+  cursor: pointer;
+}
+
+.btn-file-upload {
+  background-color: white;
+}
+
+.btn-submit {
+  margin-top: 1em;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: 1em;
+}
+
+.title {
+  margin-bottom: 20px;
+  color: #264E72;
+}

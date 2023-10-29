@@ -1,0 +1,27 @@
+.tableWrapper {
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
+.table {
+  width: 100%;
+  color: #212529;
+  border-collapse: collapse;
+}
+
+.table th,
+.table td {
+  padding: 0.75rem;
+  border-bottom: 1px solid #dee2e6;
+}
+
+.table th {
+  background-color: #264e72;
+  color: #fff;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
